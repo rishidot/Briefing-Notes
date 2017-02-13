@@ -27,7 +27,7 @@ NATS is an open source messaging system by Apcera focussed on being lightweight 
 * Since NATS is open source, it gives an opportunity to extend the platform capabilities and reach more easily than a proprietary platform
 
 ###Threats
-* NATS, at this moment, is a single vendor backed OSS project with just five contributors in Github. It is important for them to expand and diversify the contributors. They are in the process of streamlining the contribution process and building up documentation for developers
+* NATS, at this moment, is a single vendor backed OSS project with few contributors in Github. It is important for them to expand and diversify the contributors. They are in the process of streamlining the contribution process and building up documentation for developers
 * Lack of a business model around NATS is definitely a threat. The team understands the need and they are exploring various options. Monetizing OSS is difficult but the fact that they have an enterprise grade platform (Apcera) will help them explore interesting opportunities
 
 ##Conclusion
