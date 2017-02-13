@@ -31,3 +31,7 @@ Oracle is betting their IaaS on three factors that may be attractive for enterpr
 
 ##Conclusion
 Even though they are late by close to a decade, Oracle has moved into the public cloud space. They are clearly disadvantaged at this point in terms of richness of developer and other higher order services on top of their IaaS. But we expect them to fill the gap through acquisitions and compete hard with AWS. If they can take their IaaS revenue to $1B in 2017, I can confidently say that they will be a major force in enterprise public cloud market. It will be interesting to watch where they go from here.
+
+##Competitors
+
+Amazon AWS, Microsoft Azure, Google Cloud, IBM Bluemix
