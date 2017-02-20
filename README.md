@@ -16,4 +16,4 @@ Typically, a Briefing Note is an alternative to a blog post written by an analys
 Rishidot Research (and StackSense.io) believes in publishing their reports openly and sharing their data openly. Github is a perfect place to host our research collateral and publications. We publish our reports in Markdown because we believe it will help multiple usecases including easy republishing. Since Mardown is machine readable, our reports can be a good data source used in any Machine Learning or AI context.
 
 ##What is the license for your reports?
-Our publications are available with [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
+Our publications are available with [Creative Commons Attribution-ShareAlike 4.0 International License](https://github.com/rishidot/Briefing-Notes/blob/master/License.md)
